@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Are you looking for a production-ready ecommerce & HRMS app?
 
 If you're looking for a production-ready ecommerce & HRMS app, check out [KetraMart](https://ketramart.com/) & [Ketra HRMS](https://hrms.ketramart.com/).
@@ -121,3 +122,6 @@ Many more....
   Copyright © 2023 [Prajwal R.](https://raiprajwal.com/)
   
 <p style="text-align:center">Thank You so much for your time !!!</p>
+=======
+# Lapakemane
+>>>>>>> d2d5314fbd09e9685fc06826e5fec5ad810bc61e
